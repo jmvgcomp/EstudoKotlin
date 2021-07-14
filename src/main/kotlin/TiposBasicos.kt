@@ -1,5 +1,3 @@
-import kotlin.reflect.typeOf
-
 fun main() {
     //Tipos numericos Inteiros
     val num1: Byte = 127;
