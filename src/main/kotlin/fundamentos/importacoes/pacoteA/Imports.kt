@@ -1,4 +1,4 @@
-package importacoes.pacoteA
+package fundamentos.importacoes.pacoteA
 
 fun simplesFuncao(texto: String):String{
     return "Texto = $texto"

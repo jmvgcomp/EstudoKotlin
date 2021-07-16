@@ -1,3 +1,5 @@
+package fundamentos
+
 fun main() {
     //Tipos numericos Inteiros
     val num1: Byte = 127;

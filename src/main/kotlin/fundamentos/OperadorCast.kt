@@ -1,3 +1,5 @@
+package fundamentos
+
 fun imprimirConceito(x: Any){
 
     //caso o tipo passado seja diferente de Int utilizando o 'as'

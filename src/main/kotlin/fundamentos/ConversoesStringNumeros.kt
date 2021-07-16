@@ -1,3 +1,5 @@
+package fundamentos
+
 fun main() {
     val a = 1;
 

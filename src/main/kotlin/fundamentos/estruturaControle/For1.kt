@@ -1,4 +1,4 @@
-package estruturaControle
+package fundamentos.estruturaControle
 
 fun main() {
     //range crescente, 1 e 10 entram no laço

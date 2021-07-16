@@ -1,4 +1,4 @@
-package estruturaControle
+package fundamentos.estruturaControle
 
 fun main() {
     val nota = 10.0;

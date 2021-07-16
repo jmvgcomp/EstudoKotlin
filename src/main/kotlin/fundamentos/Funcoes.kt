@@ -1,3 +1,5 @@
+package fundamentos
+
 fun main() {
 
     semRetorno(2, 3)

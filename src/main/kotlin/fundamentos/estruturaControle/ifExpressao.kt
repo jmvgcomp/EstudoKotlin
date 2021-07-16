@@ -1,4 +1,4 @@
-package estruturaControle
+package fundamentos.estruturaControle
 
 fun main() {
     val num = 1
@@ -6,10 +6,10 @@ fun main() {
 
     val maiorValor = if (num > num1){ //se vazio retorna Kotlin.Unit
         println("Executa o if...")
-        num //retorno
+        num //fundamentos.retorno
     }else{
         println("Exceuta o else..") //pode ser vários processamentos
-        num1 //retorno
+        num1 //fundamentos.retorno
     }
 
     //forma mais simples

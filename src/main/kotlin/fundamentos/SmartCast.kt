@@ -1,3 +1,5 @@
+package fundamentos
+
 fun smartCast(x: Any){
     if(x is String){
         println(x.uppercase())

@@ -1,3 +1,5 @@
+package fundamentos
+
 fun main() {
     val aprovados = listOf("João", "Matria", "Pedro");
     println("O primerio aprovado foi ${aprovados.first()}.") //ou ${aprovados[0]}
